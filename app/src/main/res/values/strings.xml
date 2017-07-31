@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CarWash</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_all_transactions">AllTransactions</string>
+    <string name="title_activity_birth_days">BirthDays</string>
+    <string name="action_settings">Settings</string>
+</resources>

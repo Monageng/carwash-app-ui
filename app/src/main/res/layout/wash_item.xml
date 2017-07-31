@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/txnRegNo"
+            android:layout_width="115dp"
+            android:layout_height="wrap_content"
+            android:background="@color/colorName"
+            android:text="TextView" />
+
+
+                <TextView
+                    android:id="@+id/txnMonth"
+                    android:layout_width="70dp"
+                    android:layout_height="wrap_content"
+                    android:background="@color/colorSurname"
+                    android:text="TextView" />
+
+        <TextView
+            android:id="@+id/txnCount"
+            android:layout_width="115dp"
+            android:layout_height="wrap_content"
+            android:background="@color/colorName"
+            android:text="TextView" />
+    </TableRow>
+</LinearLayout>
